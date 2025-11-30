@@ -1,4 +1,4 @@
-# CS175 Final Project: Bio-cell Detection with YOLOv8 on TXL-PBC Dataset
+Bio-cell Detection with YOLOv8 on TXL-PBC Dataset
 
 ## **Project Goal**
 
